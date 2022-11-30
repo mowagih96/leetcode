@@ -1,4 +1,3 @@
-// Unique Number of Occurrences
 /**
  * @param {number[]} arr
  * @return {boolean}
